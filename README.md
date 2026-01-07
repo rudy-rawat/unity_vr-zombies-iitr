@@ -1,4 +1,11 @@
 ## Zombies IITR — VR Survival Experience
+![Status](https://img.shields.io/badge/status-prototype-yellow.svg)
+![Engine](https://img.shields.io/badge/engine-Unity-black.svg)
+![XR](https://img.shields.io/badge/XR-VR%20%7C%20XR%20Toolkit-blueviolet.svg)
+![Platform](https://img.shields.io/badge/platform-PC%20VR-lightgrey.svg)
+![Event](https://img.shields.io/badge/showcased%20at-Srishti%20IITR-orange.svg)
+![Domain](https://img.shields.io/badge/domain-VR%20Game%20Development-blue.svg)
+![Architecture](https://img.shields.io/badge/architecture-modular%20gameplay-informational.svg)
 
 Developed for **Srishti 2025 — the Annual Technical Exhibition of IIT Roorkee**, this project was showcased under the **Tinkering Lab – Metaverse section**, representing an immersive intersection of virtual reality, game systems, and spatial storytelling.
 
@@ -22,6 +29,8 @@ Players navigate the James Thomson Building in VR, encountering hostile AI entit
 The project demonstrates how **metaverse-style experiences** can extend beyond abstract worlds into **contextual, location-based virtual spaces**, blending gaming, architecture, and emerging XR technologies.
 
 By situating gameplay within a recognizable IIT Roorkee landmark, we aimed to bridge **technical creativity with institutional identity**, making the experience both engaging and meaningful for exhibition visitors.
+
+----
 
 ## VR Interaction System
 
